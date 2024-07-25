@@ -26,6 +26,8 @@ Rate your comfort and choose the matching activity
 
 - What are three things you learned during this lab?
 
-"I learned how to perform complex SQL JOIN operations to combine data from multiple tables."
-"I understood how to use UNION to handle FULL OUTER JOIN operations when there are multiple conditions."
-"I gained experience in transforming JSON data into relational database tables and writing efficient queries to extract meaningful information."
+  1."I learned how to perform complex SQL JOIN operations to combine data from multiple tables."
+
+  2."I understood how to use UNION to handle FULL OUTER JOIN operations when there are multiple conditions."
+
+  3."I gained experience in transforming JSON data into relational database tables and writing efficient queries to extract meaningful information."
