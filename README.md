@@ -22,4 +22,10 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+"I chose to use the Football/Futbol/Soccer data for a more challenging activity."
+
 - What are three things you learned during this lab?
+
+"I learned how to perform complex SQL JOIN operations to combine data from multiple tables."
+"I understood how to use UNION to handle FULL OUTER JOIN operations when there are multiple conditions."
+"I gained experience in transforming JSON data into relational database tables and writing efficient queries to extract meaningful information."
